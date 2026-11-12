@@ -24,6 +24,9 @@ Aurely is a modern, privacy-focused music player that lets you organize and enjo
 ## 📸 Preview
 
 ![Aurely Music Player](./screenshots/aurely-preview.png)
+## 📱 Preview
+
+![Aurely App Preview](./screenshots/aurely-preview.png)
 
 ## 🔐 Privacy First
 
