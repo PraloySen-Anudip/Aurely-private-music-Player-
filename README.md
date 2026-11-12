@@ -20,9 +20,6 @@ A personal music player to organize and enjoy your favorite songs and YouTube vi
 ## 📸 Preview
 
 ![Aurely App Screenshot](./aurely-preview.jpg)
-## 📱 Preview
-
-![Aurely Preview](./aurely-preview.jpg)
 
 ## 🔐 Privacy First
 
