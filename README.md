@@ -1,12 +1,8 @@
-# # 🎵 Aurely — Your Private Music Player
+# 🎵 Aurely
 
-**A personal space for your music and YouTube videos.**
+A personal music player to organize and enjoy your favorite songs and YouTube videos.
 
-Aurely is a modern, privacy-focused music player that lets you organize and enjoy your favorite music and YouTube videos in one place. Build your own music library, create playlists, manage favorites, and keep track of your listening history.
-
-🌐 **Live Demo:** https://aurelyplay.vercel.app
-
----
+🔗 **Live Website:** https://aurelyplay.vercel.app
 
 ## ✨ Features
 
@@ -23,10 +19,10 @@ Aurely is a modern, privacy-focused music player that lets you organize and enjo
 
 ## 📸 Preview
 
-![Aurely Music Player](./screenshots/aurely-preview.png)
+![Aurely App Screenshot](./aurely-preview.jpg)
 ## 📱 Preview
 
-![Aurely App Preview](./screenshots/aurely-preview.png)
+![Aurely Preview](./aurely-preview.jpg)
 
 ## 🔐 Privacy First
 
@@ -46,40 +42,6 @@ Aurely is designed to be a personal listening space.
 4. Organize your tracks into playlists.
 5. Enjoy your personal music library!
 
-## 🎼 Supported Content
-
-| Content | Support |
-|---|---|
-| YouTube videos | Yes |
-| MP3 audio URLs | Yes |
-| M4A audio URLs | Yes |
-| OGG audio URLs | Yes |
-| Custom playlists | Yes |
-| Favorites | Yes |
-| Listening history | Yes |
-
-**Note:** The equalizer works with direct audio tracks. YouTube videos use YouTube's own audio playback.
-
-## 🛠️ Project Information
-
-- **Project Name:** Aurely
-- **Category:** Personal Music Player
-- **Platform:** Web Application
-- **Deployment:** Vercel
-- **Access:** Browser-based
-
-## 💡 Vision
-
-Aurely is built around a simple idea:
-
-**Your music. Your library. Your space.**
-
-A clean and personal listening experience without the need for an account or social features.
-
 ---
 
-<p align="center">
-  Made with ❤️ for music lovers.
-  <br>
-  <strong>Aurely — Your Private Player</strong>
-</p>
+**Made with ❤️ by Aurely
